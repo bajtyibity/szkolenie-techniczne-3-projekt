@@ -1,0 +1,35 @@
+<div>
+  <h2>Dodaj naprawę do listy</h2>
+  <form [formGroup]="naprawaForm" (ngSubmit)="addNaprawa()">
+    <div style="display: none;">
+      <label for="repairId">Repair ID:</label>
+      <input id="repairId" formControlName="repairId" type="number">
+    </div>
+    
+      <label for="description">Opis:</label>
+      <input id="description" formControlName="description" type="text">
+    
+      <label for="repairDate">Data Rozpoczęcia Naprawy:</label>
+      <input id="repairDate" formControlName="repairDate" type="date">
+
+      <label for="completionDate">Data Zakończenia Naprawy:</label>
+      <input id="completionDate" formControlName="completionDate" type="date">
+
+      <label for="partsUsed">	Użyte Części:</label>
+      <input id="partsUsed" formControlName="partsUsed" type="text">
+
+      <label for="laborHours">Czas Naprawy:</label>
+      <input id="laborHours" formControlName="laborHours" type="number">
+
+      <label for="laborCost">Koszt Robocizny:</label>
+      <input id="laborCost" formControlName="laborCost" type="number">
+
+      <label for="partsCost">Koszt Części:</label>
+      <input id="partsCost" formControlName="partsCost" type="number">
+
+      <label for="totalCost">Koszt Całkowity:</label>
+      <input id="totalCost" formControlName="totalCost" type="number">
+ 
+    <button type="submit">Add Naprawa</button>
+  </form>
+</div>

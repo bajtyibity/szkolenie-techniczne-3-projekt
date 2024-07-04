@@ -1,0 +1,34 @@
+<h1 id="tableLabel">baza danych z naprawami</h1>
+
+<p>Ten dokument demonstruje dane z bazy danych z naprawami.</p>
+
+<p *ngIf="!naprawy"><em>Loading... Please refresh once the ASP.NET backend has started. See <a href="https://aka.ms/jspsintegrationangular">https://aka.ms/jspsintegrationangular</a> for more details.</em></p>
+
+<table *ngIf="naprawy">
+  <thead>
+    <tr>
+      <th>Id Naprawy</th>
+      <th>Opis</th>
+      <th>Data Rozpoczęcia Naprawy</th>
+      <th>Data Zakończenia Naprawy</th>
+      <th>Użyte Części</th>
+      <th>Czas Naprawy</th>
+      <th>Koszt Robocizny</th>
+      <th>Koszt Części</th>
+      <th>Koszt Całkowity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let naprawa of naprawy">
+      <td>{{ naprawa.repairId }}</td>
+      <td>{{ naprawa.description }}</td>
+      <td>{{ naprawa.repairDate }}</td>
+      <td>{{ naprawa.completionDate }}</td>
+      <td>{{ naprawa.partsUsed }}</td>
+      <td>{{ naprawa.laborHours }}</td>
+      <td>{{ naprawa.laborCost }}</td>
+      <td>{{ naprawa.partsCost }}</td>
+      <td>{{ naprawa.totalCost }}</td>
+    </tr>
+  </tbody>
+</table>

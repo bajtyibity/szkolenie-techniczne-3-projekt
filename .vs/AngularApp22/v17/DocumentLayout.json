@@ -1,0 +1,508 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp22\\angularapp22.client\\src\\app\\delete-naprawa\\delete-naprawa.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|solutionrelative:angularapp22.client\\src\\app\\delete-naprawa\\delete-naprawa.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp22\\angularapp22.client\\src\\app\\add-naprawa\\add-naprawa.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|solutionrelative:angularapp22.client\\src\\app\\add-naprawa\\add-naprawa.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp22\\angularapp22.client\\src\\app\\delete-naprawa\\delete-naprawa.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|solutionrelative:angularapp22.client\\src\\app\\delete-naprawa\\delete-naprawa.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp22\\angularapp22.client\\src\\app\\naprawa\\naprawa.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|solutionrelative:angularapp22.client\\src\\app\\naprawa\\naprawa.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp22\\angularapp22.client\\src\\app\\add-naprawa\\add-naprawa.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|solutionrelative:angularapp22.client\\src\\app\\add-naprawa\\add-naprawa.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp22\\angularapp22.client\\src\\app\\delete-naprawa\\delete-naprawa.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|solutionrelative:angularapp22.client\\src\\app\\delete-naprawa\\delete-naprawa.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp22\\angularapp22.client\\src\\app\\add-naprawa\\add-naprawa.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|solutionrelative:angularapp22.client\\src\\app\\add-naprawa\\add-naprawa.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp22\\angularapp22.client\\src\\app\\delete-naprawa\\delete-naprawa.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|solutionrelative:angularapp22.client\\src\\app\\delete-naprawa\\delete-naprawa.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp22\\angularapp22.client\\aspnetcore-https.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|solutionrelative:angularapp22.client\\aspnetcore-https.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp22\\angularapp22.client\\src\\app\\naprawa\\naprawa.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|solutionrelative:angularapp22.client\\src\\app\\naprawa\\naprawa.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp22\\angularapp22.client\\src\\app\\naprawa\\naprawa.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|solutionrelative:angularapp22.client\\src\\app\\naprawa\\naprawa.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp22\\angularapp22.client\\src\\app\\naprawa\\naprawa.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|solutionrelative:angularapp22.client\\src\\app\\naprawa\\naprawa.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp22\\angularapp22.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|solutionrelative:angularapp22.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp22\\angularapp22.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|solutionrelative:angularapp22.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp22\\angularapp22.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|solutionrelative:angularapp22.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp22\\angularapp22.client\\src\\app\\add-naprawa\\add-naprawa.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|solutionrelative:angularapp22.client\\src\\app\\add-naprawa\\add-naprawa.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3D0B30-8521-4026-BAF9-0488B6F35150}|AngularApp22.Server\\AngularApp22.Server.csproj|c:\\users\\krzysztof\\source\\repos\\angularapp22\\angularapp22.server\\naprawa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3D0B30-8521-4026-BAF9-0488B6F35150}|AngularApp22.Server\\AngularApp22.Server.csproj|solutionrelative:angularapp22.server\\naprawa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp22\\angularapp22.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|solutionrelative:angularapp22.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp22\\angularapp22.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|solutionrelative:angularapp22.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp22\\angularapp22.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|solutionrelative:angularapp22.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp22\\angularapp22.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|solutionrelative:angularapp22.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp22\\angularapp22.client\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|solutionrelative:angularapp22.client\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp22\\angularapp22.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|solutionrelative:angularapp22.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp22\\angularapp22.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|solutionrelative:angularapp22.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp22\\angularapp22.client\\karma.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|solutionrelative:angularapp22.client\\karma.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp22\\angularapp22.client\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|solutionrelative:angularapp22.client\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp22\\angularapp22.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|solutionrelative:angularapp22.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp22\\angularapp22.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|solutionrelative:angularapp22.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp22\\angularapp22.client\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|solutionrelative:angularapp22.client\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|c:\\users\\krzysztof\\source\\repos\\angularapp22\\angularapp22.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D7DE9652-716F-4AE5-A2F8-BA89694E5BCD}|angularapp22.client\\angularapp22.client.esproj|solutionrelative:angularapp22.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "add-naprawa.component.html",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\app\\add-naprawa\\add-naprawa.component.html",
+              "RelativeDocumentMoniker": "angularapp22.client\\src\\app\\add-naprawa\\add-naprawa.component.html",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\app\\add-naprawa\\add-naprawa.component.html",
+              "RelativeToolTip": "angularapp22.client\\src\\app\\add-naprawa\\add-naprawa.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-03T20:11:48.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "delete-naprawa.component.html",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\app\\delete-naprawa\\delete-naprawa.component.html",
+              "RelativeDocumentMoniker": "angularapp22.client\\src\\app\\delete-naprawa\\delete-naprawa.component.html",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\app\\delete-naprawa\\delete-naprawa.component.html",
+              "RelativeToolTip": "angularapp22.client\\src\\app\\delete-naprawa\\delete-naprawa.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-03T21:26:42.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "add-naprawa.component.css",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\app\\add-naprawa\\add-naprawa.component.css",
+              "RelativeDocumentMoniker": "angularapp22.client\\src\\app\\add-naprawa\\add-naprawa.component.css",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\app\\add-naprawa\\add-naprawa.component.css",
+              "RelativeToolTip": "angularapp22.client\\src\\app\\add-naprawa\\add-naprawa.component.css",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-03T20:12:29.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "delete-naprawa.component.ts",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\app\\delete-naprawa\\delete-naprawa.component.ts",
+              "RelativeDocumentMoniker": "angularapp22.client\\src\\app\\delete-naprawa\\delete-naprawa.component.ts",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\app\\delete-naprawa\\delete-naprawa.component.ts",
+              "RelativeToolTip": "angularapp22.client\\src\\app\\delete-naprawa\\delete-naprawa.component.ts",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-03T21:22:23.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "naprawa.component.html",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\app\\naprawa\\naprawa.component.html",
+              "RelativeDocumentMoniker": "angularapp22.client\\src\\app\\naprawa\\naprawa.component.html",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\app\\naprawa\\naprawa.component.html",
+              "RelativeToolTip": "angularapp22.client\\src\\app\\naprawa\\naprawa.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-03T19:21:19.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "delete-naprawa.component.css",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\app\\delete-naprawa\\delete-naprawa.component.css",
+              "RelativeDocumentMoniker": "angularapp22.client\\src\\app\\delete-naprawa\\delete-naprawa.component.css",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\app\\delete-naprawa\\delete-naprawa.component.css",
+              "RelativeToolTip": "angularapp22.client\\src\\app\\delete-naprawa\\delete-naprawa.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-03T21:30:27.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "add-naprawa.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\app\\add-naprawa\\add-naprawa.component.spec.ts",
+              "RelativeDocumentMoniker": "angularapp22.client\\src\\app\\add-naprawa\\add-naprawa.component.spec.ts",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\app\\add-naprawa\\add-naprawa.component.spec.ts",
+              "RelativeToolTip": "angularapp22.client\\src\\app\\add-naprawa\\add-naprawa.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-03T20:12:43.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "delete-naprawa.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\app\\delete-naprawa\\delete-naprawa.component.spec.ts",
+              "RelativeDocumentMoniker": "angularapp22.client\\src\\app\\delete-naprawa\\delete-naprawa.component.spec.ts",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\app\\delete-naprawa\\delete-naprawa.component.spec.ts",
+              "RelativeToolTip": "angularapp22.client\\src\\app\\delete-naprawa\\delete-naprawa.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-03T21:24:31.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "aspnetcore-https.js",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\aspnetcore-https.js",
+              "RelativeDocumentMoniker": "angularapp22.client\\aspnetcore-https.js",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\aspnetcore-https.js",
+              "RelativeToolTip": "angularapp22.client\\aspnetcore-https.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-03T20:17:45.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "naprawa.component.css",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\app\\naprawa\\naprawa.component.css",
+              "RelativeDocumentMoniker": "angularapp22.client\\src\\app\\naprawa\\naprawa.component.css",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\app\\naprawa\\naprawa.component.css",
+              "RelativeToolTip": "angularapp22.client\\src\\app\\naprawa\\naprawa.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-03T19:37:27.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "naprawa.component.ts",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\app\\naprawa\\naprawa.component.ts",
+              "RelativeDocumentMoniker": "angularapp22.client\\src\\app\\naprawa\\naprawa.component.ts",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\app\\naprawa\\naprawa.component.ts",
+              "RelativeToolTip": "angularapp22.client\\src\\app\\naprawa\\naprawa.component.ts",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-03T15:56:35.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "naprawa.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\app\\naprawa\\naprawa.component.spec.ts",
+              "RelativeDocumentMoniker": "angularapp22.client\\src\\app\\naprawa\\naprawa.component.spec.ts",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\app\\naprawa\\naprawa.component.spec.ts",
+              "RelativeToolTip": "angularapp22.client\\src\\app\\naprawa\\naprawa.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-03T19:21:15.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "angularapp22.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "angularapp22.client\\src\\app\\app.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-03T19:34:17.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "angularapp22.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "angularapp22.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-03T20:11:58.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "proxy.conf.js",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\proxy.conf.js",
+              "RelativeDocumentMoniker": "angularapp22.client\\src\\proxy.conf.js",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\proxy.conf.js",
+              "RelativeToolTip": "angularapp22.client\\src\\proxy.conf.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-03T20:18:03.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "add-naprawa.component.ts",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\app\\add-naprawa\\add-naprawa.component.ts",
+              "RelativeDocumentMoniker": "angularapp22.client\\src\\app\\add-naprawa\\add-naprawa.component.ts",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\app\\add-naprawa\\add-naprawa.component.ts",
+              "RelativeToolTip": "angularapp22.client\\src\\app\\add-naprawa\\add-naprawa.component.ts",
+              "ViewState": "AQIAABsAAAAAAAAAAAAIwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-03T20:10:22.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Naprawa.cs",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\AngularApp22.Server\\Naprawa.cs",
+              "RelativeDocumentMoniker": "AngularApp22.Server\\Naprawa.cs",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\AngularApp22.Server\\Naprawa.cs",
+              "RelativeToolTip": "AngularApp22.Server\\Naprawa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T19:31:58.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "app.component.css",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\app\\app.component.css",
+              "RelativeDocumentMoniker": "angularapp22.client\\src\\app\\app.component.css",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\app\\app.component.css",
+              "RelativeToolTip": "angularapp22.client\\src\\app\\app.component.css",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-03T19:34:41.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "angularapp22.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "angularapp22.client\\src\\app\\app.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-03T20:17:08.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\main.ts",
+              "RelativeDocumentMoniker": "angularapp22.client\\src\\main.ts",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\main.ts",
+              "RelativeToolTip": "angularapp22.client\\src\\main.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-03T20:18:55.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\styles.css",
+              "RelativeDocumentMoniker": "angularapp22.client\\src\\styles.css",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\styles.css",
+              "RelativeToolTip": "angularapp22.client\\src\\styles.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-03T20:18:02.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\.editorconfig",
+              "RelativeDocumentMoniker": "angularapp22.client\\.editorconfig",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\.editorconfig",
+              "RelativeToolTip": "angularapp22.client\\.editorconfig",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-03T20:18:00.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\.gitignore",
+              "RelativeDocumentMoniker": "angularapp22.client\\.gitignore",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\.gitignore",
+              "RelativeToolTip": "angularapp22.client\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-07-03T20:17:58.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "angular.json",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\angular.json",
+              "RelativeDocumentMoniker": "angularapp22.client\\angular.json",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\angular.json",
+              "RelativeToolTip": "angularapp22.client\\angular.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-03T20:17:54.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "karma.conf.js",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\karma.conf.js",
+              "RelativeDocumentMoniker": "angularapp22.client\\karma.conf.js",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\karma.conf.js",
+              "RelativeToolTip": "angularapp22.client\\karma.conf.js",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-03T20:17:37.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "nuget.config",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\nuget.config",
+              "RelativeDocumentMoniker": "angularapp22.client\\nuget.config",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\nuget.config",
+              "RelativeToolTip": "angularapp22.client\\nuget.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-03T20:17:36.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\package.json",
+              "RelativeDocumentMoniker": "angularapp22.client\\package.json",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\package.json",
+              "RelativeToolTip": "angularapp22.client\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-03T20:17:35.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\README.md",
+              "RelativeDocumentMoniker": "angularapp22.client\\README.md",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\README.md",
+              "RelativeToolTip": "angularapp22.client\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-07-03T20:17:33.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\tsconfig.json",
+              "RelativeDocumentMoniker": "angularapp22.client\\tsconfig.json",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\tsconfig.json",
+              "RelativeToolTip": "angularapp22.client\\tsconfig.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-03T20:17:31.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "angularapp22.client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\Krzysztof\\source\\repos\\AngularApp22\\angularapp22.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "angularapp22.client\\src\\app\\app.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-03T20:17:04.915Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

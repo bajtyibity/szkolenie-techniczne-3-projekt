@@ -1,0 +1,48 @@
+div {
+  background-color: #e0f7fa; /* Light blue background */
+  border: 2px solid #0288d1; /* Blue border */
+  border-radius: 10px; /* Rounded corners */
+  padding: 20px; /* Padding inside the div */
+  max-width: 400px; /* Max width for the div */
+  margin: auto; /* Center the div */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+h2 {
+  color: #01579b; /* Dark blue color */
+  text-align: center; /* Center the heading */
+  font-family: Arial, sans-serif; /* Font style */
+}
+
+label {
+  color: #0277bd; /* Blue color for label */
+  font-weight: bold; /* Bold text */
+  display: block; /* Display as block to ensure spacing */
+  margin-bottom: 5px; /* Space below label */
+}
+
+input {
+  width: 100%; /* Full width input */
+  padding: 10px; /* Padding inside input */
+  margin-bottom: 15px; /* Space below input */
+  border: 1px solid #0288d1; /* Blue border */
+  border-radius: 5px; /* Rounded corners */
+  box-sizing: border-box; /* Include padding and border in width */
+}
+
+button {
+  background-color: #0288d1; /* Blue background */
+  color: white; /* White text */
+  padding: 10px 15px; /* Padding inside button */
+  border: none; /* No border */
+  border-radius: 5px; /* Rounded corners */
+  cursor: pointer; /* Pointer cursor on hover */
+  font-size: 16px; /* Font size */
+  display: block; /* Display as block to ensure proper spacing */
+  margin: auto; /* Center the button */
+}
+
+  button:disabled {
+    background-color: #b3e5fc; /* Light blue background when disabled */
+    cursor: not-allowed; /* Not-allowed cursor when disabled */
+  }

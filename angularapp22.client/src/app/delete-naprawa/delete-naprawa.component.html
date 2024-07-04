@@ -1,0 +1,10 @@
+<div>
+  <h2>Usuń naprawę z listy</h2>
+  <form [formGroup]="deleteForm" (ngSubmit)="deleteNaprawa()">
+    <label for="repairId">
+      Id Naprawy:
+    </label>
+    <input id="repairId" formControlName="repairId" type="number">
+    <button type="submit" [disabled]="deleteForm.invalid">Delete</button>
+  </form>
+</div>
